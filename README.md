@@ -1,6 +1,6 @@
 # Pokemon-Card-Giveaway
 <p> My very own personal site!  </p>
-App is live at 
+App is live at https://marcoscardoso.netlify.app
 
 <h1>About:</h1>
 <p>A website contaning links to my professional social media accounts, an about me section and a collection of my portfolios</p>
